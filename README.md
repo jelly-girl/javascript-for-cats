@@ -1,2 +1,5 @@
 # frondend-Learning
-Javascripts for kids
+
+Have problems?
+
+This might give you some hints.

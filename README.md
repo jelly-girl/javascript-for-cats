@@ -2,6 +2,4 @@
 
 For review.
 
-Have problems?
-
-This might give you some hints.
+Have problems? This might give you some hints.😉

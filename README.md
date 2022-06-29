@@ -14,7 +14,7 @@ Have problems? This might give you some hints.😉
 
 ## 食用指南
 
-通过 release 下载完整内容，建议使用 Typora。
+通过 [release](https://github.com/jelly-girl/frondend-Learning/releases) 下载完整内容，建议使用 Typora。
 
 `# 标题` 这是**标题**，表示该笔记的主要内容，笔记中可能会出现与标题无关的内容。
 

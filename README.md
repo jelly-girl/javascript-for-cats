@@ -1,8 +1,8 @@
 # frondend-Learning
 
-For review.
+For review nya.
 
-Have problems? This might give you some hints.😉
+Have problems? This might give you some hints nya.😉
 
  ## 食用指南
 
@@ -27,7 +27,6 @@ Have problems? This might give you some hints.😉
 
 咱家做的只是稍微整理了一点点内容喵。
 
-
  ## 其他 
 
 **代码块**的说明一般在其上方。可能在写在代码块的注释部分或补充说明中喵。
@@ -35,3 +34,13 @@ Have problems? This might give you some hints.😉
 笔记之间编辑的时间跨度较大，可能会产生格式不统一的现象喵。
 
 笔记可能代表我当前的学习进度，不严谨处咱家会随缘改正喵。
+
+ ## 主人记
+ 
+你好。我是该账号的主人。一天深夜我发现我的猫偷偷打开了我的电脑，于是我就看到了这个无缘无故多出来的 repo。
+ 
+我粗略地看了一下内容，感到很吃惊和羞愧。我的猫居然会先我一步学会 JavaScript。
+ 
+虽然我很不甘，但是我还是尊重猫咪的劳动成果。作为主人，我也会帮助我的猫维护这个 repo。
+
+可能我的猫 `姿势 level` 很高，但是当我向它讨教的时候它没有理会我，我就极端愤怒地写下这段话，来表达我的委屈。

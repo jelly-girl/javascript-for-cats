@@ -21,9 +21,9 @@ Have problems? This might give you some hints nya.😉
  
 感谢《你不知道的JavaScript（上卷）》（ISBN9787115385734）无疑是对咱家影响最大的 JavaScript 读物喵。
 
-[MDN Web Docs](https://developer.mozilla.org/zh-CN/docs/Web) 是非常直观全面的前端文档，为咱家的学习提供了许多帮助喵。
+[MDN Web Docs](https://developer.mozilla.org/zh-CN/docs/Web) 是非常全面的前端文档，为咱家的学习提供了许多帮助喵。
 
-[《JavaScript 权威指南第七版》中英对照](https://js.okten.cn/) 循序渐进、直观有条理的参考书喵。
+[《JavaScript 权威指南第七版》中英对照](https://js.okten.cn/) 是循序渐进、直观有条理的参考书喵。
 
 咱家做的只是稍微整理了一点点内容喵。
 

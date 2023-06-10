@@ -2,7 +2,9 @@
 
 # -- Project information
 
-project = 'Nya-JS'
+project = 'JavaScript For Cats'
+html_title = "JavaScript For Cats"
+
 copyright = '2023, Cat'
 author = 'Cat'
 
@@ -29,6 +31,7 @@ intersphinx_disabled_domains = ['std']
 templates_path = ['_templates']
 
 # -- Options for HTML output
+html_favicon = "images/f.svg"
 
 html_theme = 'sphinx_material'
 

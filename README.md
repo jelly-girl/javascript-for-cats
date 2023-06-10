@@ -1,4 +1,8 @@
 # JavaScript For Cats
+[![Documentation Status](https://readthedocs.org/projects/frondend-learning/badge/?version=latest)](https://frondend-learning.readthedocs.io/zh_CN/latest/?badge=latest)
+[![Release Version](https://img.shields.io/badge/release-0.2.0-informational)](https://github.com/jelly-girl/javascript-for-cats/releases/tag/0.2)
+[![Welcome Pull Request](https://img.shields.io/badge/PRs-welcomed-blueviolet)](https://github.com/jelly-girl/javascript-for-cats/pulls)
+
 
 For review nya.
 
@@ -19,7 +23,7 @@ Have problems? This might give you some hints nya.😉
  
  ## 参考资料
  
-感谢《你不知道的JavaScript（上卷）》（ISBN9787115385734）无疑是对咱家影响最大的 JavaScript 读物喵。
+感谢《你不知道的JavaScript（上卷）》（ISBN9787115385734）是对咱家影响最大的 JavaScript 读物喵。
 
 [MDN Web Docs](https://developer.mozilla.org/zh-CN/docs/Web) 是非常全面的前端文档，为咱家的学习提供了许多帮助喵。
 
@@ -33,14 +37,14 @@ Have problems? This might give you some hints nya.😉
 
 笔记之间编辑的时间跨度较大，可能会产生格式不统一的现象喵。
 
-笔记可能代表我当前的学习进度，不严谨处咱家会随缘改正喵。
+笔记可能代表咱家当前的学习进度，不严谨处咱家会随缘改正喵。
 
  ## 主人记
  
-你好。我是该账号的主人。一天深夜我发现我的猫偷偷打开了我的电脑，于是我就看到了这个无缘无故多出来的 repo。
+你好。我是该账号的主人。一天我发现我的猫在深夜偷偷用我的电脑，追查之下我发现了这个无缘无故多出来的 repo。
  
-我粗略地看了一下内容，感到很吃惊和羞愧。我的猫居然会先我一步学会 JavaScript。
+我看到这些以后，感到羞愧难当。没想到我的猫居然会先我一步学会 JavaScript。
  
-虽然我很不甘，但是我还是尊重猫咪的劳动成果。作为主人，我也会帮助我的猫维护这个 repo。
+虽然我很不甘，但是我还是尊重猫咪的劳动成果。作为主人，我也有责任帮助我的猫维护文档。
 
-可能我的猫 `姿势 level` 很高，但是当我向它讨教的时候它没有理会我，我就极端愤怒地写下这段话，来表达我的委屈。
+尽管我的猫 `姿势 level` 可能比我高，但是它在我向它讨教的时候没有理会我，我就愤怒地写下这段话，来表达我的委屈。

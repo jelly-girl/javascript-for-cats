@@ -1,5 +1,5 @@
 JavaScript For Cats
-===================
+====================
 
 For review nya.
 
@@ -10,15 +10,15 @@ Have problems? This might give you some hints nya.😉
 食用指南
 --------
 
-通过 `release<https://github.com/jelly-girl/frondend-Learning/releases>`_ 下载喵。咱家建议使用支持 Markdown 的软件阅读和编辑喵。
+通过 `release <https://github.com/jelly-girl/frondend-Learning/releases>`_ 下载喵。咱家建议使用支持 Markdown 的软件阅读和编辑喵。
 
-# 标题 这是标题，表示该笔记的主要内容，笔记中可能会出现咱家与标题无关的闲谈喵。
+``# 标题`` 这是**标题**，表示该笔记的主要内容，笔记中可能会出现咱家与标题无关的闲谈喵。
 
-二级的分类一般会以 h3 标题 ### 标题 表示喵。（有时候咱家想把它都写进文件名中喵）
+**二级的分类**一般会以 h3 标题 ``### 标题`` 表示喵。（有时候咱家想把它都写进文件名中喵）
 
-三级的分类通常会以缩进三个字符的粗体 **** 表示喵。
+**三级的分类**通常会以缩进三个字符的粗体 ``****`` 表示喵。
 
-对于某一段内容的补充说明一般在其下方以同一段的 - 开头喵。
+对于某一段内容的**补充说明**一般在其下方以同一段的 ``-`` 开头喵。\t
 - 就像这样
 
 
@@ -26,11 +26,11 @@ Have problems? This might give you some hints nya.😉
 参考资料
 --------
 
-感谢《你不知道的JavaScript（上卷）》（ISBN-9787115385734）无疑是对咱家影响最大的 JavaScript 读物喵。
+感谢《你不知道的JavaScript（上卷）》（ISBN-9787115385734）是对咱家影响最大的 JavaScript 读物喵。
 
-`MDN Web Docs<https://developer.mozilla.org/zh-CN/docs/Web>`_ 是非常全面的前端文档，为咱家的学习提供了许多帮助喵。
+`MDN Web Docs <https://developer.mozilla.org/zh-CN/docs/Web>`_ 是非常全面的前端文档，为咱家的学习提供了许多帮助喵。
 
-`《JavaScript 权威指南第七版》中英对照<https://js.okten.cn/>`_ 是循序渐进、直观有条理的参考书喵。
+`《JavaScript 权威指南第七版》中英对照 <https://js.okten.cn/>`_ 是循序渐进、直观有条理的参考书喵。
 
 咱家做的只是稍微整理了一点点内容喵。
 
@@ -40,7 +40,7 @@ Have problems? This might give you some hints nya.😉
 其他
 ----
 
-代码块的说明一般在其上方。可能在写在代码块的注释部分或补充说明中喵。
+**代码块**的说明一般在其上方。可能在写在代码块的注释部分或补充说明中喵。
 
 笔记之间编辑的时间跨度较大，可能会产生格式不统一的现象喵。
 
@@ -57,14 +57,19 @@ Have problems? This might give you some hints nya.😉
 
 虽然我很不甘，但是我还是尊重猫咪的劳动成果。作为主人，我也会帮助我的猫维护这个 repo。
 
-可能我的猫 姿势 level 很高，但是当我向它讨教的时候它没有理会我，我就极端愤怒地写下这段话，来表达我的委屈。
+可能我的猫 ``姿势 level`` 很高，但是当我向它讨教的时候它没有理会我，我就极端愤怒地写下这段话，来表达我的委屈。
 
 
 开始阅读喵
 ----------
 
-那么，就开始阅读吧喵。
+那么，就:doc:`开始阅读`吧喵。
 
+Contents:
+.. toctree::
+   :maxdepth: 2
+
+   JavaScript 概述
 
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers

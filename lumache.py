@@ -1,8 +1,8 @@
 """
-Lumache - Python library for cooks and food lovers.
+JavaScript For Cats - JavaScript Guide For Cats Over the World!
 """
 
-__version__ = "0.1.0"
+__version__ = "0.3.0"
 
 
 class InvalidKindError(Exception):

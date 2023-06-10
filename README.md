@@ -1,4 +1,4 @@
-# frondend-Learning
+# JavaScript For Cats
 
 For review nya.
 
@@ -6,7 +6,7 @@ Have problems? This might give you some hints nya.😉
 
  ## 食用指南
 
-通过 [release](https://github.com/jelly-girl/frondend-Learning/releases) 下载喵。咱家建议使用支持 Markdown 的软件阅读和编辑喵。
+通过 [release](https://github.com/jelly-girl/javascript-for-cats/releases/) 下载喵。咱家建议使用支持 Markdown 的软件阅读和编辑喵。
 
 `# 标题` 这是**标题**，表示该笔记的主要内容，笔记中可能会出现咱家与标题无关的闲谈喵。
 

@@ -1,2 +1,2 @@
 sphinx_material
-recommonmark
+myst-parser

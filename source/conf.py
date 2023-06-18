@@ -1,6 +1,8 @@
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information
+from recommonmark.parser import CommonMarkParser
+
 project = u'JavaScript For Cats'
 
 copyright = u''
@@ -29,6 +31,9 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
+source_parsers = {
+    '.md': CommonMarkParser,
+}
 source_suffix = ['.rst', '.md']
 master_doc = 'contents'
 language = 'zh_CN'

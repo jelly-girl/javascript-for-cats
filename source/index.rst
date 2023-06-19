@@ -84,8 +84,8 @@ how to :ref:`installation` the project.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
+   index
    c1/index
 
 

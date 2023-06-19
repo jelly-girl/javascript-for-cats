@@ -1,7 +1,7 @@
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information
-project = u'JavaScript For Cats'
+project = u'nya'
 
 copyright = u''
 author = u''

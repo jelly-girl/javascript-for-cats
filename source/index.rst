@@ -65,11 +65,6 @@ Have problems? This might give you some hints nya.😉
 
 那么，就 :doc:`开始阅读` 吧喵。
 
-Contents:
-.. toctree::
-   :maxdepth: 2
-
-   JavaScript 概述
 
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -83,6 +78,16 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development.
+
+
+
+
+Contents:
+.. toctree::
+   :maxdepth: 2
+
+   01
+   02
 
 
 

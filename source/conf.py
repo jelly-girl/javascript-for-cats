@@ -1,7 +1,7 @@
 # Configuration file for the Sphinx documentation builder.
 
 # -- Project information
-project = u'nya'
+project = u'JavaScript For Cats'
 
 copyright = u''
 author = u''
@@ -37,7 +37,7 @@ source_suffix = ['.rst', '.md']
 language = 'zh_CN'
 
 # -- Options for HTML output
-html_title = "JavaScript For Cats"
+html_title = "nya"
 html_favicon = "images/f.svg"
 html_theme = 'sphinx_material'
 
@@ -46,7 +46,7 @@ html_theme_options = {
     # Set the name of the project to appear in the navigation.
     #'nav_title': 'Project Name',
     # Set you GA account ID to enable tracking
-    'google_analytics_account': 'UA-XXXXX',
+    #'google_analytics_account': 'UA-XXXXX',
     # Specify a base_url used to generate sitemap.xml. If not
     # specified, then no sitemap will be built.
     #'base_url': 'https://project.github.io/project',
@@ -55,7 +55,7 @@ html_theme_options = {
     'color_accent': 'light-blue',
     # Set the repo location to get a badge with stats
     'repo_url': 'https://github.com/jelly-girl/javascript-for-cats',
-    'repo_name': 'JavaScript For Cats',
+    'repo_name': 'please star me',
     # Visible levels of the global TOC; -1 means unlimited
     'globaltoc_depth': 3,
     # If False, expand all TOC entries

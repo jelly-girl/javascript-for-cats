@@ -33,7 +33,7 @@ source_parsers = {
     '.md': 'recommonmark.parser.CommonMarkParser',
 }
 source_suffix = ['.rst', '.md']
-master_doc = 'contents'
+# master_doc = 'contents'
 language = 'zh_CN'
 
 # -- Options for HTML output
